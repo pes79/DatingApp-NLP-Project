@@ -1,0 +1,5 @@
+ ===== 학습 결과 요약 =====
+Epoch: 1, Train loss: 0.8137, Train ACC: 0.8612, valid ACC: 0.8475
+Epoch: 2, Train loss: 0.4670, Train ACC: 0.9113, valid ACC: 0.8700
+Epoch: 3, Train loss: 0.3174, Train ACC: 0.9306, valid ACC: 0.8875
+Epoch: 4, Train loss: 0.2435, Train ACC: 0.9344, valid ACC: 0.8775
